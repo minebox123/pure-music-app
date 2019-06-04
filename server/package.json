@@ -1,0 +1,17 @@
+{
+  "name": "pure_music-app",
+  "version": "1.0.0",
+  "description": "An app that allows  searching for music, musical albums and etc.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilya Solodeev",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "passport": "^0.4.0",
+    "passport-spotify": "^1.0.1"
+  }
+}
